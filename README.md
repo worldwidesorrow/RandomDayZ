@@ -1,2 +1,1 @@
-# RandomDayZ
-Scripting and such
+Random DayZ Stuff
